@@ -5,10 +5,7 @@ import numpy as np
 from PIL import Image
 
 members = [
-    {"name": "Adetia Yuni Pangesti", "foto": "1ade.jpeg"},
-    {"name": "Ariq Saepul Aziz", "foto": "2ariq.jpeg"},
-    {"name": "Puji Nur Hadiyah", "foto": "3puji.jpeg"},
-    {"name": "Sugianto", "foto": "4sugi.jpeg"}
+    {"name": "Hendrawan Oktavianto", "foto": "1ade.jpeg"},
 ]
 
 # halaman tranformation
